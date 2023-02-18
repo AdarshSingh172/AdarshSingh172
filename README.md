@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 This is Mithlesh kumar
+
+A passionate fronted developer
+
 
 <!--
 **AdarshSingh172/AdarshSingh172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
